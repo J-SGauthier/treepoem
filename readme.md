@@ -60,8 +60,13 @@ Fransaskois artist, sculptor, coder of poetic tools
 
 ---
 
+---
+
 ## 🤖 Created in collaboration with ChatGPT
 
 This tool was developed with assistance from [ChatGPT](https://openai.com/chatgpt), an AI language model by OpenAI, to help create, refine, and share the `treepoem` project.
 
+It was also inspired by the **[Code Societies SFPC class in 2025](https://sfpc.io/code-societies/)**, which focused on computational art, collaboration, and creative tools.
+
 ---
+
